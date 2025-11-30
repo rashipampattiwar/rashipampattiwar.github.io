@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Mazzy TM';
+    src: url('MazzyTM-Regular.eot');
+    src: local('Mazzy TM Regular'), local('MazzyTM-Regular'),
+        url('MazzyTM-Regular.eot?#iefix') format('embedded-opentype'),
+        url('MazzyTM-Regular.woff2') format('woff2'),
+        url('MazzyTM-Regular.woff') format('woff'),
+        url('MazzyTM-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
